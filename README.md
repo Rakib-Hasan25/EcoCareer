@@ -42,7 +42,7 @@ Most existing job platforms:
 
 <img width="512" height="426" alt="eco-Diagram" src="https://github.com/user-attachments/assets/ff1fdc66-08db-4ba0-8806-2dc5f499e554" />
 
-*The complete system architecture showing the interaction between frontend services, backend API gateway, and job retrieval engine.*
+*The complete system architecture showing the interaction between frontend services, backend API gateway.*
 
 ---
 
